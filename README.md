@@ -1,2 +1,2 @@
-# -klid-i
-IBM ile Kodluyoruz kursu için yazmış olduğum Öklid mesafesi hesaplayan python kodu.
+# euclid calculator
+Python code that calculates Euclidean distance that I wrote for the Coding with IBM course.
